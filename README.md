@@ -1,4 +1,4 @@
- <img src="https://github.com/FrankRojas31/FrankRojas31/blob/main/%40FrankRpo.png" alt="Imagen estirada" style="width: 100%; height: auto; display: block; margin: 0 auto;">
+ <img src="https://github.com/FrankRojas31/FrankRojas31/blob/main/%40FrankRpo.png" alt="Imagen estirada" style="width: 80%; height: auto; display: block; margin: 0 auto;">
 ¡Hola! Soy FrankRojas31 Desarrollador de Software 👋
 
 
@@ -10,5 +10,3 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankRojas31&theme=gruvbox&hide_border=true" />
 </p>
 <br>
-
-(https://activity-graph.herokuapp.com/graph?username=FrankRojas31&custom_title=Emmow%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
