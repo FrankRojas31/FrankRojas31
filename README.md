@@ -50,7 +50,6 @@ Mi fuerte en programación es el Backend con el uso de JavaScript y Node usando 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 </p>
-<br>
 
 ## Mis Estadisticas
 <p align="center">
