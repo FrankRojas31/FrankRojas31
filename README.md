@@ -6,8 +6,6 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado Desarrollador de Software con experiencia en diversas tecnologías y lenguajes de programación. Me encanta enfrentar nuevos desafíos y crear soluciones innovadoras.
 #
-
-<br>
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left" style="display: flex; gap: 10px;"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
