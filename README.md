@@ -65,8 +65,9 @@ Mi fuerte en programación es el Backend con el uso de JavaScript y Node usando 
 <p/>
 
 <h3>Estadisticas:- </h3>
-<p>
-  <img align="center" 
+<p align="center">
+  <img 
+    width="49.5" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=FrankRojas31&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Frank" 
     bg_color=#808080/>
