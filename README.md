@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/510895555321266188/903489102903652402/PSX_20211028_224250.jpg](https://github.com/FrankRojas31/FrankRojas31/blob/main/%40FrankRpo.png">
+<img src="[https://cdn.discordapp.com/attachments/510895555321266188/903489102903652402/PSX_20211028_224250.jpg](https://github.com/FrankRojas31/FrankRojas31/blob/main/%40FrankRpo.png](https://github.com/FrankRojas31/FrankRojas31/blob/main/%40FrankRpo.png)">
 ¡Hola! Soy FrankRojas31 Desarrollador de Software 👋
 
 
