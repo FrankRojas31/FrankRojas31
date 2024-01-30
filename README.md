@@ -1,3 +1,11 @@
+<style>
+        img {
+            width: 100%; /* Estira la imagen al 100% del contenedor */
+            height: auto; /* Mantiene la proporción original de la imagen */
+            display: block; /* Elimina cualquier espacio adicional alrededor de la imagen */
+            margin: 0 auto; /* Centra la imagen horizontalmente en su contenedor */
+        }
+    </style>
 <img src="https://github.com/FrankRojas31/FrankRojas31/blob/main/%40FrankRpo.png">
 ¡Hola! Soy FrankRojas31 Desarrollador de Software 👋
 
