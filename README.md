@@ -1,4 +1,7 @@
- <img src="https://github.com/FrankRojas31/FrankRojas31/blob/main/%40FrankRpo.png" alt="Imagen estirada" style="margin-left: 20px; width: 70%; height: auto; display: block; margin: 0 auto;">
+<p align="center">
+  <img src="https://github.com/FrankRojas31/FrankRojas31/blob/main/%40FrankRpo.png" alt="Imagen estirada" width="70%" height="auto">
+</p>
+
 ¡Hola! Soy FrankRojas31 Desarrollador de Software 👋
 
 
