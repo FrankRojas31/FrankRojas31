@@ -53,12 +53,9 @@ Mi fuerte en programación es el Backend con el uso de JavaScript y Node usando 
 <br>
 
 ## Mis Estadisticas
-
-<br/>
 <p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FrankRojas31&show_icons=true&theme=gruvbox&hide_border=true" />
 </p>
-<br>
 
 <p align="center">
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankRojas31&theme=gruvbox&hide_border=true" />
