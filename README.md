@@ -1,7 +1,7 @@
 ### ¡Hola! Soy FrankRojas31 Desarrollador de Software 👋
 
 
-## My Statistics
+## Mis Estadisticas
 
 <br/>
 <p align="left">
@@ -10,6 +10,6 @@
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=FrankRojas31&custom_title=Emmow%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+[![Grafica de Frank](https://activity-graph.herokuapp.com/graph?username=FrankRojas31&custom_title=Emmow%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
 ------
