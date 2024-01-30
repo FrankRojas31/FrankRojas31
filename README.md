@@ -63,7 +63,6 @@ Mi fuerte en programación es el Backend con el uso de JavaScript y Node usando 
 <p align="center">
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankRojas31&theme=gruvbox&hide_border=true" />
 <p/>
-br
 
 <h3>Estadisticas:- </h3>
 <p>
