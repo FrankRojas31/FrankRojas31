@@ -11,7 +11,7 @@ Mi fuerte en Desarrollo de Software es el Backend con el uso de .NET con Arquite
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left" style="display: flex; gap: 10px;">  
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv5PlR-6YZDHZIW8Axyo7AoQP7tTPyotHhEQ&s" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
