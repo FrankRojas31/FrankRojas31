@@ -9,12 +9,9 @@
 Mi fuerte en Desarrollo de Software es el Backend con el uso de .NET con Arquitectura DDD y Onion, igual el uso de NodeJS con ExpressJS.
 #
 <h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left" style="display: flex; gap: 10px;"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+<p align="left" style="display: flex; gap: 10px;">  
+  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv5PlR-6YZDHZIW8Axyo7AoQP7tTPyotHhEQ&s" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
