@@ -4,9 +4,9 @@
 
 # ¡Hola! Soy FrankRojas31 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado Desarrollador de Software con experiencia en diversas tecnologías y lenguajes de programación. Me encanta enfrentar nuevos desafíos y crear soluciones innovadoras.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado Desarrollador de Software Backend y Frontend con experiencia en .NET, Nest, NodeJS, Angular, React. Me encanta enfrentar nuevos desafíos y crear soluciones innovadoras.
 
-Mi fuerte en programación es el Backend con el uso de JavaScript y Node usando el framework de Express.js.
+Mi fuerte en Desarrollo de Software es el Backend con el uso de .NET con Arquitectura DDD y Onion, igual el uso de NodeJS con ExpressJS.
 #
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left" style="display: flex; gap: 10px;"> 
