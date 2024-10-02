@@ -51,6 +51,9 @@ Mi fuerte en Desarrollo de Software es el Backend con el uso de .NET con Arquite
   </a> 
 </p>
 
+<h3 align="left">Frameworks:</h3>
+  <h4 align="left">Backend: </h4>
+
 ## Mis Estadisticas
 <p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FrankRojas31&show_icons=true&theme=gruvbox&hide_border=true" />
