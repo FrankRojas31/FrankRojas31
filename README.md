@@ -57,6 +57,10 @@ Mi fuerte en Desarrollo de Software es el Backend con el uso de .NET con Arquite
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="nestjs" width="40" height="40"/>
   </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs" width="40" height="40"/>
+  </a>
+
 
   </p>
 
