@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/FrankRojas31/FrankRojas31/blob/main/PERFIL.png" alt="Imagen estirada" width="100%" height="400px">
+  <img src="https://github.com/FrankRojas31/FrankRojas31/blob/main/PERFIL.png" alt="Imagen estirada" width="100%" height="500px">
 </p>
 
 # ¡Hola! Soy FrankRojas31 👋
