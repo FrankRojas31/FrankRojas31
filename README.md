@@ -149,6 +149,6 @@
 <h2 align="center">📊 Estadísticas</h2>
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=FrankRojas31&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="Estadísticas">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankRojas31&layout=compact&theme=vision-friendly-dark" alt="Lenguajes">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankRojas31&theme=vision-friendly-dark" alt="Racha">
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankRojas31&layout=compact&theme=vision-friendly-dark" alt="Lenguajes">
