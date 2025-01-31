@@ -15,9 +15,10 @@
 
 <!-- Badges animados -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript&style=for-the-badge&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-Pro-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/WordPress-Developer-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/JavaScript-Medium-green?logo=javascript&style=for-the-badge&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/.NET-Medium-green?logo=.NET&style=for-the-badge" alt=".NET">
+  <img src="https://img.shields.io/badge/React-Medium-green?logo=React&style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-Medium-green?logo=React&style=for-the-badge" alt="React">
 </div>
 
 ## 🛠 Tecnologías y Herramientas
@@ -151,23 +152,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankRojas31&layout=compact&theme=vision-friendly-dark" alt="Lenguajes">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankRojas31&theme=vision-friendly-dark" alt="Racha">
 </div>
-
-<!-- Animaciones CSS -->
-<style>
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-  
-  @keyframes spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-  
-  table:hover {
-    transform: scale(1.02);
-    transition: transform 0.3s ease;
-  }
-</style>
-
