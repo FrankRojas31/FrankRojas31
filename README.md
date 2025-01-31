@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <p align="center">
   <div style="min-height: 201px; max-height: 201px;">
-    <img src="https://github.com/FrankRojas31/FrankRojas31/blob/main/PERFIL.png" alt="Banner" width="100%" height="auto">
+    <img src="https://github.com/FrankRojas31/FrankRojas31/blob/main/Black%20and%20White%20Minimalist%20Black%20Friday%20Banner.png" alt="Banner" width="100%" height="auto">
   </div>
 </p>
 
