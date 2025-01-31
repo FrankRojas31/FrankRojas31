@@ -1,15 +1,24 @@
 <!-- Profile Header -->
 <p align="center">
-  <div style="min-height: 201px; max-height: 201px;">
-    <img src="https://github.com/FrankRojas31/FrankRojas31/blob/main/Black%20and%20White%20Minimalist%20Black%20Friday%20Banner.png" alt="Banner" width="100%" height="auto">
+  <div style="min-height: 201px; max-height: 201px; position: relative; overflow: hidden;">
+    <img src="https://github.com/FrankRojas31/FrankRojas31/blob/main/Black%20and%20White%20Minimalist%20Black%20Friday%20Banner.png" alt="Banner" width="100%" height="auto" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,255,136,0.3);">
+    <!-- Efecto de partículas -->
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('https://media.giphy.com/media/3o6Zt6KHxJTbqlK0U8/giphy.gif') repeat; opacity: 0.1; pointer-events: none;"></div>
   </div>
 </p>
 
-<h1 align="center">¡Hola! Soy Frank 👋</h1>
+<h1 align="center" style="animation: float 3s ease-in-out infinite;">¡Hola! Soy Frank 👋</h1>
 
-<h3 align="center">🚀 Full Stack Developer | .NET • Node.js • React</h3>
+<h3 align="center" style="color: #61dafb; text-shadow: 0 0 10px rgba(97,218,251,0.5);">
+  🚀 Full Stack Developer | .NET • Node.js • React
+</h3>
 
----
+<!-- Badges animados -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript&style=for-the-badge&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-Pro-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/WordPress-Developer-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+</div>
 
 ## 🛠 Tecnologías y Herramientas
 
@@ -22,6 +31,10 @@
     <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40">
       <br>C#
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="animation: spin 4s linear infinite;">
+      <br>JavaScript
     </td>
     <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40">
@@ -72,6 +85,16 @@
   </tr>
 </table>
 
+<h3>🌐 CMS</h3>
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40">
+      <br>WordPress
+    </td>
+  </tr>
+</table>
+
 <!-- Databases -->
 <h3>🗃️ Bases de Datos</h3>
 <table>
@@ -112,9 +135,39 @@
 
 </div>
 
-<!-- Estadísticas -->
+<!-- Sección de actividad -->
+<h2 align="center" style="border: 2px solid #00ff88; padding: 15px; border-radius: 10px; margin: 25px 0;">
+  📈 Mi Actividad en Tiempo Real
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankRojas31&theme=react-dark&bg_color=1a1a1a&hide_border=true&area=true" width="90%">
+</div>
+
+<!-- Estadísticas Mejoradas -->
 <h2 align="center">📊 Estadísticas</h2>
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FrankRojas31&show_icons=true&theme=gruvbox">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankRojas31&theme=gruvbox">
-</p>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrankRojas31&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="Estadísticas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankRojas31&layout=compact&theme=vision-friendly-dark" alt="Lenguajes">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankRojas31&theme=vision-friendly-dark" alt="Racha">
+</div>
+
+<!-- Animaciones CSS -->
+<style>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+  
+  @keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  
+  table:hover {
+    transform: scale(1.02);
+    transition: transform 0.3s ease;
+  }
+</style>
+
