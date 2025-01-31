@@ -15,7 +15,7 @@
 
 <!-- Badges animados -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/JavaScript-Medium-green?logo=javascript&style=for-the-badge&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-Medium-green?logo=javascript&style=for-the-badge" alt="JavaScript">
   <img src="https://img.shields.io/badge/.NET-Medium-green?logo=.NET&style=for-the-badge" alt=".NET">
   <img src="https://img.shields.io/badge/React-Medium-green?logo=React&style=for-the-badge" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-Medium-green?logo=TypeScript&style=for-the-badge" alt="React">
