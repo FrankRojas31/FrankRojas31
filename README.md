@@ -151,4 +151,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FrankRojas31&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="Estadísticas">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankRojas31&theme=vision-friendly-dark" alt="Racha">
 </div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankRojas31&layout=compact&theme=vision-friendly-dark" alt="Lenguajes">
+</div>
