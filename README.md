@@ -1,95 +1,131 @@
-# Francisco Rojas
-
-**Desarrollador Full Stack**
+# 🌟 Francisco Rojas
 
 <div align="center">
-  <img src="## 📊 Estadísticas de GitHub
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrankRojas31&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankRojas31&theme=default" alt="Racha de GitHub" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrankRojas31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" alt="Estadísticas de GitHub" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankRojas31&theme=tokyonight&border_radius=15" alt="Racha de GitHub" width="49%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankRojas31&layout=compact&theme=default" alt="Lenguajes Más Utilizados">
-</div>thub.com/FrankRojas31/FrankRojas31/blob/main/Black%20and%20White%20Minimalist%20Black%20Friday%20Banner.png" alt="Banner Profesional" width="100%" style="border-radius: 8px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankRojas31&layout=compact&theme=tokyonight&border_radius=15" alt="Lenguajes Más Utilizados">
 </div>
 
-## 👨‍💻 Sobre Mí
-
-Desarrollador Full Stack con experiencia en tecnologías web modernas. Apasionado por crear aplicaciones escalables y entregar soluciones de alta calidad utilizando los ecosistemas de .NET, Node.js y React.
-
-### 🎯 Competencias Principales
-
-- **Desarrollo Backend**: .NET, Node.js, NestJS, Express.js
-- **Desarrollo Frontend**: React, Angular, TypeScript
-- **Gestión de Bases de Datos**: SQL Server, MongoDB, PostgreSQL
-- **Cloud & DevOps**: AWS, Docker, pipelines CI/CD
+### 🏆 Trofeos de GitHub
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://github-profile-trophy.vercel.app/?username=FrankRojas31&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trofeos">
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>tion=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Especialista+en+.NET+y+React;Creador+de+Soluciones+Web" alt="Typing SVG" />
+</div>
 
-## 🛠 Stack Tecnológico
+<div align="center">
+  <img src="https://github.com/FrankRojas31/FrankRojas31/blob/main/Black%20and%20White%20Minimalist%20Black%20Friday%20Banner.png" alt="Banner Profesional" width="100%" style="border-radius: 15px;">
+</div>
 
-### Lenguajes de Programación
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## � Sobre Mí
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <b>¡Hola! Soy Francisco</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300">
+</div>
+
+```javascript
+const francisco = {
+  especialidad: "Full Stack Developer",
+  lenguajes: ["C#", "JavaScript", "TypeScript", "Python"],
+  frameworks: {
+    backend: [".NET", "Node.js", "NestJS", "Express"],
+    frontend: ["React", "Angular", "Vue.js"],
+    mobile: ["React Native"],
+  },
+  bases_datos: ["SQL Server", "MongoDB", "PostgreSQL"],
+  herramientas: ["Docker", "AWS", "Git", "Azure"],
+  actualmente_aprendiendo: "Microservicios y Kubernetes",
+  hobbies: ["Programación", "Tecnología", "Innovación"],
+};
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🛠️ Arsenal Tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,angular,nodejs,python,express,nestjs,mongodb,postgres,mysql,docker,aws,git,github,vscode,tailwind,wordpress&perline=10" />
+</div>
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Lenguajes de Programación
 
 <div align="center">
   
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
-### Tecnologías Backend
+### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25"> Backend Technologies
 
 <div align="center">
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 </div>
 
-### Tecnologías Frontend
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Frontend Technologies
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
-### Bases de Datos
+### <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25"> Bases de Datos
 
 <div align="center">
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
-### Herramientas & DevOps
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Cloud & DevOps
 
 <div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -105,30 +141,76 @@ Desarrollador Full Stack con experiencia en tecnologías web modernas. Apasionad
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankRojas31&layout=compact&theme=default" alt="Top Languages">
 </div>
 
----
-
 ## 📈 Gráfico de Actividad
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankRojas31&theme=github-compact&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankRojas31&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20Contribución" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
+
+## 💻 Experiencia Laboral
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Frontend+Developer;Full+Stack+Solutions;Microservicios+y+APIs;Bases+de+Datos+y+Cloud" alt="Experiencia SVG" />
+</div>
+
+```yaml
+experiencia:
+  - rol: "Full Stack Developer"
+    empresa: "Freelance"
+    periodo: "2020 - Presente"
+    tecnologias: [".NET", "React", "Node.js", "SQL Server", "MongoDB"]
+    logros:
+      - "Desarrollo de aplicaciones web escalables"
+      - "Implementación de APIs RESTful"
+      - "Optimización de bases de datos"
+      - "Integración con servicios cloud"
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🤝 Conectemos
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=¡Hablemos+de+tecnología!;Siempre+abierto+a+nuevos+retos;Colaboremos+juntos" alt="Conectar SVG" />
+</div>
+
+<div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FrankRojas31)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=15)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=15)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&border_radius=15)](https://github.com/FrankRojas31)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&border_radius=15)](https://tu-portfolio.com)
 
 </div>
 
-> "El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=💻%20Gracias%20por%20visitar%20mi%20perfil%20💻&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+</div>
 
----
+### 💡 Frase Inspiradora
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/FrankRojas31">FrankRojas31</a></i>
+  
+> *"El código es como el humor. Cuando tienes que explicarlo, es malo."* - **Cory House**
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FrankRojas31&color=blueviolet&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Contador de visitas">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+  <i>⭐️ Hecho con ❤️ por <a href="https://github.com/FrankRojas31">Francisco Rojas</a></i>
 </div>
