@@ -1,156 +1,134 @@
-<!-- Profile Header -->
-<p align="center">
-  <div style="min-height: 201px; max-height: 201px; position: relative; overflow: hidden;">
-    <img src="https://github.com/FrankRojas31/FrankRojas31/blob/main/Black%20and%20White%20Minimalist%20Black%20Friday%20Banner.png" alt="Banner" width="100%" height="auto" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,255,136,0.3);">
-    <!-- Efecto de partículas -->
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('https://media.giphy.com/media/3o6Zt6KHxJTbqlK0U8/giphy.gif') repeat; opacity: 0.1; pointer-events: none;"></div>
-  </div>
-</p>
+# Francisco Rojas
 
-<h1 align="center" style="animation: float 3s ease-in-out infinite;">¡Hola! Soy Frank 👋</h1>
+**Desarrollador Full Stack**
 
-<h3 align="center" style="color: #61dafb; text-shadow: 0 0 10px rgba(97,218,251,0.5);">
-  🚀 Full Stack Developer | .NET • Node.js • React
-</h3>
+<div align="center">
+  <img src="## 📊 Estadísticas de GitHub
 
-<!-- Badges animados -->
-<div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/JavaScript-Medium-green?logo=javascript&style=for-the-badge" alt="JavaScript">
-  <img src="https://img.shields.io/badge/.NET-Medium-green?logo=.NET&style=for-the-badge" alt=".NET">
-  <img src="https://img.shields.io/badge/React-Medium-green?logo=React&style=for-the-badge" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-Medium-green?logo=TypeScript&style=for-the-badge" alt="React">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrankRojas31&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankRojas31&theme=default" alt="Racha de GitHub" width="49%">
 </div>
 
-## 🛠 Tecnologías y Herramientas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankRojas31&layout=compact&theme=default" alt="Lenguajes Más Utilizados">
+</div>thub.com/FrankRojas31/FrankRojas31/blob/main/Black%20and%20White%20Minimalist%20Black%20Friday%20Banner.png" alt="Banner Profesional" width="100%" style="border-radius: 8px;">
+</div>
+
+## 👨‍💻 Sobre Mí
+
+Desarrollador Full Stack con experiencia en tecnologías web modernas. Apasionado por crear aplicaciones escalables y entregar soluciones de alta calidad utilizando los ecosistemas de .NET, Node.js y React.
+
+### 🎯 Competencias Principales
+
+- **Desarrollo Backend**: .NET, Node.js, NestJS, Express.js
+- **Desarrollo Frontend**: React, Angular, TypeScript
+- **Gestión de Bases de Datos**: SQL Server, MongoDB, PostgreSQL
+- **Cloud & DevOps**: AWS, Docker, pipelines CI/CD
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+</div>
+
+---
+
+## 🛠 Stack Tecnológico
+
+### Lenguajes de Programación
+
+<div align="center">
+  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+### Tecnologías Backend
 
 <div align="center">
 
-<!-- Languages -->
-<h3>🔡 Lenguajes</h3>
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40">
-      <br>C#
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="animation: spin 4s linear infinite;">
-      <br>JavaScript
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40">
-      <br>TypeScript
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
-      <br>Python
-    </td>
-  </tr>
-</table>
-
-<!-- Backend -->
-<h3>⚙️ Backend</h3>
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40">
-      <br>.NET
-    </td>
-    <td align="center" width="150">
-      <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" width="40">
-      <br>NestJS
-    </td>
-    <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40">
-      <br>Express
-    </td>
-  </tr>
-</table>
-
-<!-- Frontend -->
-<h3>🎨 Frontend</h3>
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40">
-      <br>Angular
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40">
-      <br>React
-    </td>
-    <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40">
-      <br>Tailwind
-    </td>
-  </tr>
-</table>
-
-<h3>🌐 CMS</h3>
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40">
-      <br>WordPress
-    </td>
-  </tr>
-</table>
-
-<!-- Databases -->
-<h3>🗃️ Bases de Datos</h3>
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40">
-      <br>SQL Server
-    </td>
-    <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40">
-      <br>MongoDB
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40">
-      <br>PostgreSQL
-    </td>
-  </tr>
-</table>
-
-<!-- DevOps -->
-<h3>🛠️ DevOps</h3>
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40">
-      <br>Docker
-    </td>
-    <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40">
-      <br>AWS
-    </td>
-    <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40">
-      <br>Git
-    </td>
-  </tr>
-</table>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 </div>
 
-<!-- Sección de actividad -->
-<h2 align="center" style="border: 2px solid #00ff88; padding: 15px; border-radius: 10px; margin: 25px 0;">
-  📈 Mi Actividad en Tiempo Real
-</h2>
+### Tecnologías Frontend
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankRojas31&theme=react-dark&bg_color=1a1a1a&hide_border=true&area=true" width="90%">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
 </div>
 
-<!-- Estadísticas Mejoradas -->
-<h2 align="center">📊 Estadísticas</h2>
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrankRojas31&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="Estadísticas">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankRojas31&theme=vision-friendly-dark" alt="Racha">
-</div>
+### Bases de Datos
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankRojas31&layout=compact&theme=vision-friendly-dark" alt="Lenguajes">
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
+### Herramientas & DevOps
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+</div>
+
+---
+
+## � GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrankRojas31&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankRojas31&theme=default" alt="GitHub Streak" width="49%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankRojas31&layout=compact&theme=default" alt="Top Languages">
+</div>
+
+---
+
+## 📈 Gráfico de Actividad
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankRojas31&theme=github-compact&hide_border=true&area=true" width="100%">
+</div>
+
+---
+
+## 🤝 Conectemos
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FrankRojas31)
+
+</div>
+
+> "El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/FrankRojas31">FrankRojas31</a></i>
 </div>
