@@ -14,15 +14,6 @@
 
 ## 🚀 Sobre Mí
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <b>¡Hola! Soy Francisco</b>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300">
-</div>
-
 ```javascript
 const francisco = {
   especialidad: "Full Stack Developer",
