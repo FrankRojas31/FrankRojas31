@@ -155,7 +155,7 @@ experiencia:
 ## 🤝 Conectemos
 
 <div align="center">
-  <svg src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=%C2%A1Hablemos+de+tecnolog%C3%ADa!;Siempre+abierto+a+nuevos+retos;Colaboremos+juntos" alt="Conectar SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=%C2%A1Hablemos+de+tecnolog%C3%ADa!;Siempre+abierto+a+nuevos+retos;Colaboremos+juntos" alt="Conectar SVG" />
 </div>
 
 <div align="center">
