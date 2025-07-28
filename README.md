@@ -139,14 +139,13 @@ const francisco = {
 ```yaml
 experiencia:
   - rol: "Full Stack Developer"
-    empresa: "Freelance"
-    periodo: "2020 - Presente"
-    tecnologias: [".NET", "React", "Node.js", "SQL Server", "MongoDB"]
+    empresa: "Ozelot Technologies"
+    periodo: "2024 - Presente"
+    tecnologias: [".NET", "SQL Server", "Angular"]
     logros:
       - "Desarrollo de aplicaciones web escalables"
       - "Implementación de APIs RESTful"
       - "Optimización de bases de datos"
-      - "Integración con servicios cloud"
 ```
 
 <div align="center">
@@ -186,8 +185,4 @@ experiencia:
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-  <i>⭐️ Hecho con ❤️ por <a href="https://github.com/FrankRojas31">Francisco Rojas</a></i>
 </div>
