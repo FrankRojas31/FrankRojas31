@@ -19,7 +19,7 @@
 ## Tecnológias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,mariadb,cassandra,vue,react,angular,nodejs,express,nestjs,mongodb,postgres,mysql,docker,aws,git,github,vscode,tailwind,wordpress&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,cassandra,vue,react,angular,nodejs,express,nestjs,mongodb,postgres,mysql,docker,aws,git,github,vscode,tailwind,wordpress&perline=10" />
 </div>
 
 <div align="center">
