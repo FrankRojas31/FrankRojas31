@@ -29,12 +29,7 @@
 ## Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrankRojas31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" alt="Estadísticas de GitHub" width="49%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankRojas31&theme=tokyonight&border_radius=15" alt="Racha de GitHub" width="49%">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankRojas31&layout=compact&theme=tokyonight&border_radius=15" alt="Lenguajes Más Utilizados">
 </div>
 
 ## Gráfico de Actividad
@@ -65,7 +60,7 @@ experiencia:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🤝 Conectemos
+## Conectemos
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=%C2%A1Hablemos+de+tecnolog%C3%ADa!;Siempre+abierto+a+nuevos+retos;Colaboremos+juntos" alt="Conectar SVG" />
