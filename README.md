@@ -42,17 +42,6 @@
 
 ```yaml
 experiencia:
-  - rol: "Full Stack Developer"
-    empresa: "Servantrip"
-    periodo: "2026 - Presente"
-    tecnologias: [".NET", "C#", "SQL Server", "Angular", "TypeScript", "REST APIs"]
-    logros:
-      - "Desarrollo y mantenimiento de aplicaciones web para la gestión de servicios turísticos"
-      - "Implementación de APIs RESTful seguras y escalables"
-      - "Optimización de consultas y estructuras en bases de datos SQL Server"
-      - "Integración entre frontend y backend para mejorar la experiencia de usuario"
-      - "Aplicación de buenas prácticas de desarrollo y arquitectura en proyectos de producción"
-
   - rol: "Full Stack Developer Middle"
     empresa: "Ozelot Technologies"
     periodo: "2024 - 2026"
